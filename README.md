@@ -3,4 +3,4 @@ Detecting pedestrians, finding attributes of pedestrians from a live camera or a
 
 # Sample videos for testing:
 
-[https://www.epfl.ch/labs/cvlab/data/data-pom-index-php/](https://www.epfl.ch/labs/cvlab/data/data-pom-index-php/)
+[video files for testing](https://www.epfl.ch/labs/cvlab/data/data-pom-index-php/)
